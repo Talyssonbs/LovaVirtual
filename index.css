@@ -33,11 +33,11 @@
 input{
     width: 500px;
     position: relative;
-    left: 400px;
-    top: -29px;
-    height: 30px;
-    text-align: 1000px;
-    border: solid 5px purple;
+    left: 350px;
+    top: -34px;
+    height: 40px;
+    text-align: 1000px; 
+    border-radius: 100px;
 }
 .placeholder{
     position: relative;
