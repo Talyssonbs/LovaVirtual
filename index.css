@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Menu-principal{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background-color: black;
+}
+.logo1{
+    color: #e600e6;
+    position: relative;
+    left: 20px;
+    font-size: 40px;
+    top: 5px;
+}
+.logo2{
+    color: #b300b3;
+    position: relative;
+    left: 20px;
+    font-size: 40px;
+    top: 5px;
+}
+.Caminhos-menu{
+    height: 500px;
+    position: relative;
+    top: -61px;
+    font-size: 30px;
+    left: 980px;
+}
+input{
+    width: 500px;
+    position: relative;
+    left: 400px;
+    top: -29px;
+    height: 30px;
+    text-align: 1000px;
+    border: solid 5px purple;
+}
+.placeholder{
+    position: relative;
+    left: 1000px;
+}
+.sugestoes{
+    display: flex;
+    flex-direction: row;
+    background-color: #e600e6;
+    height: 30px;
+    gap: 30px;
+    font-size: 25px;
+}
+.sugestoes2{
+    position: relative;
+    left: 25px;
+}
+
